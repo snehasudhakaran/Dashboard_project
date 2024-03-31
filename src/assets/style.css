@@ -1,0 +1,12 @@
+.pro-sidebar{
+   height:auto !important;
+}
+.pro-sidebar-layout{
+   scrollbar-width: none;
+}
+
+.pro-sidebar-layout::-webkit-scrollbar {
+   display: none;
+ }
+
+ 
